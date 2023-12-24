@@ -7,7 +7,7 @@ BloodPixel is a project contributed to by a talented team, including members fro
 ## Projects
 
 - BloodPixelMC
- - details will be added
+  - details will be added
 - [NetherrackV](https://github.com/blood-pixel/Netherrack)
 - [bpLuminexa](#)
 
