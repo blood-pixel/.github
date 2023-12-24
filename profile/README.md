@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/blood-pixel/.github/main/bplogo.png" alt="image" width="300" height="auto">
 
 ## What is "BloodPixel"
-We are an global Minecraft: Bedrock Edition server known as BloodPixel & BPixel. We foster a thriving community! <br/>
+We are a global Minecraft: Bedrock Edition server known as BloodPixel & BPixel. We foster a thriving community! <br/>
 We actively use "BP" to enhance your gaming experience while working on exciting projects. <br/>
 BloodPixel is a project contributed to by a talented team, including members from Turkey..., adding their unique touch to our global collaboration.
 
